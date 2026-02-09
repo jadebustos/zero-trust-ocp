@@ -1,5 +1,5 @@
 name: template-tutorial
-title: Template Tutorial
+title: Taller de Zero-Trust en OpenShift
 version: master
 nav:
   - modules/ROOT/nav.adoc
