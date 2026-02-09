@@ -3,7 +3,7 @@ runtime:
 
 site:
   title: Taller de Zero-Trust OpenShift
-  url: https://jadebustos.github.io/zero-trust-ocp/
+  url: https://jadebustos.github.io/zero-trust-ocp
   start_page: zero-trust::index.adoc
 
 content:
